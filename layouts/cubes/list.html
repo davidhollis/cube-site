@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+{{ $Pages := .Pages }}
+
+<article>
+    <header>
+        <h1>{{ .Title | default "Cubes" | humanize }}</h1>
+    </header>
+    <table class="cube-listing">
+        <tbody>
+            {{- range sort $Pages "Params.sort_index" "asc" }}
+            <tr>
+                <td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+                <td>{{ .Description }}</td>
+                <td class="cube-status">
+                    <span class="status-label status-{{ .Params.status }}">{{ replace .Params.status "-" " " }}</span>
+                </td>
+            </tr>
+            {{- end }}
+        </tbody>
+    </table>
+    {{ .Content }}
+</article>
+
+{{ end }}

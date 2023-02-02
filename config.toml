@@ -1,0 +1,22 @@
+baseURL = "https://cubes.sconeforgemystic.com/"
+languageCode = "en-us"
+title = "SconeforgeMystic's Cube Collection"
+theme = "contrast-hugo"
+enableEmoji = true
+
+[params]
+minimal = false
+description = "A collection of Magic: The Gathering cubes"
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/"
+weight = 10
+
+[[menu.main]]
+identifier = "cubes"
+name = "Cubes"
+url = "/cubes"
+weight = 20

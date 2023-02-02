@@ -1,0 +1,113 @@
+.mtg-card-tooltip img {
+    max-height: 20em;
+}
+
+.mana-cost {
+    white-space: nowrap;
+}
+
+.mtg-card-link, span.card {
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+.deck-container {
+    margin-top: 3em;
+}
+
+.mtg-card-display img {
+    max-width: 30%;
+}
+
+.mtg-decklist {
+    position: relative;
+    min-height: 307px;
+}
+
+.mtg-decklist .mtg-card-preview {
+    position: absolute;
+    right: 0em;
+}
+
+@media (max-width: 440px) {
+    .mtg-decklist .mtg-card-preview {
+        display: none;
+    }
+}
+
+.mtg-decklist .mtg-card-preview img {
+    margin: 0;
+    width: 220px;
+}
+
+.mtg-decklist .mtg-decklist-contents h2 {
+    font-size: 1em;
+    margin-bottom: 0.25em;
+}
+
+.mtg-decklist .mtg-decklist-contents ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0 0 1em 0;
+}
+
+.mtg-decklist .mtg-decklist-contents li {
+    margin: 0;
+}
+
+.mtg-decklist .mtg-card-quantity {
+    font-weight: bold;
+}
+
+.cube-listing {
+    box-shadow: none;
+}
+
+.cube-listing tr, .cube-listing tr td {
+    background: none !important;
+    box-shadow: none;
+}
+
+.cube-listing tr td {
+    padding: 0.5em 0;
+}
+
+.cube-status {
+    text-align: right;
+    font-size: 0.6em;
+}
+
+.status-label {
+    text-transform: uppercase;
+    padding: 0.25em 1em;
+    border-radius: 10px;
+}
+
+.single-status .status-label {
+    margin-left: 0em;
+    font-size: 0.6em;
+    position: relative;
+    top: -0.25em;
+}
+
+.status-idea {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.status-wip {
+    background-color: rgba(58, 110, 252, 0.75);
+}
+
+.status-done {
+    background-color: rgba(69, 175, 69, 0.75);
+}
+
+.no-break {
+    white-space: nowrap;
+}
+
+@media print {
+    header, p.single-status, p.cubecobra-link {
+        display: none;
+    }
+}

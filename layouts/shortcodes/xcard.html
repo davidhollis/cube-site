@@ -1,0 +1,2 @@
+<span class="card" {{ with .Get "scryfall_id" }} data-scryfall-id="{{.}}" {{ end }}{{ with .Get "name" }}
+    data-card-name="{{.}}" {{ end }}>{{ .Get "label" | default .Inner | default (.Get "name") }}</span>

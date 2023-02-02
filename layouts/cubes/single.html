@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<article>
+    <header>
+        <h1>{{ .Title }}</h1>
+    </header>
+    {{ with .Params.status }}
+    <p class="single-status">
+        <strong>Status:</strong>
+        <span class="status-label status-{{.}}">{{ replace . "-" " " }}</span>
+    </p>
+    {{ end }}
+    {{ with .Params.cubecobra_link }}
+    <p class="cubecobra-link">
+        <strong>Card List:</strong>
+        <a href="{{ . }}">CubeCobra</a>
+    </p>
+    {{ end }}
+    {{ .Content }}
+</article>
+
+{{ end }}
