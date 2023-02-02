@@ -105,9 +105,3 @@
 .no-break {
     white-space: nowrap;
 }
-
-@media print {
-    header, p.single-status, p.cubecobra-link {
-        display: none;
-    }
-}
