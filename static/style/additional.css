@@ -59,24 +59,6 @@
     font-weight: bold;
 }
 
-.cube-listing {
-    box-shadow: none;
-}
-
-.cube-listing tr, .cube-listing tr td {
-    background: none !important;
-    box-shadow: none;
-}
-
-.cube-listing tr td {
-    padding: 0.5em 0;
-}
-
-.cube-status {
-    text-align: right;
-    font-size: 0.6em;
-}
-
 .status-label {
     text-transform: uppercase;
     padding: 0.25em 1em;
@@ -104,4 +86,10 @@
 
 .no-break {
     white-space: nowrap;
+}
+
+.cube-listing section {
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    border-bottom: 1px dotted black;
 }
