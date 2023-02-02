@@ -9,6 +9,7 @@ draft: false
 
 This is a cube built around casting instants and sorcery spells: casting a lot of them, or from particular zones, or to do particular things. The cube is color-restricted: there are only blue, red, and green cards.
 
+
 ## The Draft
 
 In a normal draft, 4 players draft the entire cube in 5 packs of 9 cards each.
