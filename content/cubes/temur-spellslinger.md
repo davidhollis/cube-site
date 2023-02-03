@@ -36,6 +36,11 @@ There is one card that has been modified so that it works differently than norma
 This change is marked on the card.
 
 
+## Fixing
+
+There's more than enough fixing to build a 2-color deck with a very solid mana base. If you prioritize lands, signets, and talismans, you can build a 3-color deck, although there's relatively few payoffs for being in all 3 colors.
+
+
 ## Supported Themes
 
 While this cube is pretty open-ended (you can draft a good deck that doesn't fit neatly into any of the following), these themes have specific support built-in:

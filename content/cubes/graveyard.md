@@ -17,6 +17,11 @@ In a normal draft, 4 players draft the entire cube in 5 packs of 9 cards each.
 The packs are collated so that they contain at least one card of each color. Most packs (17/20) contain a nonbasic land with cycling. Half of the packs contain a multicolor card that acts as a signpost for what its color pair is trying to do.
 
 
+## Fixing
+
+There's very little fixing: a set of allied-color duals with cycling, and no mana rocks that fix. Unless you're a dedicated lands deck, you're best off keeping yourself in two colors. One note: the duals do have basic land types, so typecyclers like {{< card Twisted Abomination >}} can fetch them.
+
+
 ## Supported Themes
 
 The predominant archetypes are:
