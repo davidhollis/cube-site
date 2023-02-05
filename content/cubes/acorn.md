@@ -1,5 +1,5 @@
 ---
-title: "Acorn"
+title: "Acorn Slice"
 status: idea
 sort_index: 100
 links: {}
