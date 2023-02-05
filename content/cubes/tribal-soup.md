@@ -2,7 +2,8 @@
 title: "Tribal Soup Slice"
 status: done
 sort_index: 4
-cubecobra_link: "https://cubecobra.com/cube/list/2hvd0"
+links:
+  CubeCobra: "https://cubecobra.com/cube/list/2hvd0"
 description: "A cube where creature types matter, a lot. There are 22 supported types!"
 draft: false
 ---

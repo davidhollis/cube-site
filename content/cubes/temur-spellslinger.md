@@ -2,7 +2,8 @@
 title: "Temur Spellslinger Slice"
 status: done
 sort_index: 1
-cubecobra_link: "https://cubecobra.com/cube/list/1gwk"
+links:
+  CubeCobra: "https://cubecobra.com/cube/list/1gwk"
 description: "A color-restricted cube built around casting instant and sorcery spells"
 draft: false
 ---

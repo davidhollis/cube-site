@@ -14,10 +14,12 @@
                 <span class="status-label status-{{ .Params.status }}">{{ replace .Params.status "-" " " }}</span>
             </p>
             <p>{{ .Description }}</p>
-            <p>
-                <a href="{{ .Permalink }}">More Details</a>
-                {{ with .Params.cubecobra_link }}
-                    | <a href="{{ . }}">CubeCobra</a>
+            <p class="cube-links">
+                <span class="cube-link"><a href="{{ .Permalink }}">More Details</a></span>
+                {{ with .Params.links }}
+                    {{ range $title, $url := . }}
+                        <span class="cube-link"><a href="{{ $url }}">{{ $title }}</a></span>
+                    {{ end }}
                 {{ end }}
             </p>
         </section>

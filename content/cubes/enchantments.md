@@ -2,7 +2,8 @@
 title: "Enchantment Slice"
 status: done
 sort_index: 3
-cubecobra_link: "https://cubecobra.com/cube/list/1kp7z"
+links:
+  CubeCobra: "https://cubecobra.com/cube/list/1kp7z"
 description: "A cube with an unusually high density of enchantments and somewhat commander-y gameplay"
 draft: false
 ---

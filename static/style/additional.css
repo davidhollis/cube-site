@@ -110,3 +110,11 @@
 .cube-listing .cube-status {
     font-size: 0.6em;
 }
+
+.cube-links .cube-link::before {
+    content: ' | ';
+}
+
+.cube-links .cube-link:first::before {
+    content: '';
+}

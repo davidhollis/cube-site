@@ -10,10 +10,12 @@
         <span class="status-label status-{{.}}">{{ replace . "-" " " }}</span>
     </p>
     {{ end }}
-    {{ with .Params.cubecobra_link }}
-    <p class="cubecobra-link">
-        <strong>Card List:</strong>
-        <a href="{{ . }}">CubeCobra</a>
+    {{ with .Params.links }}
+    <p class="cube-links">
+        <strong>Links:</strong>
+        {{ range $title, $url := . }}
+            <span class="cube-link"><a href="{{ $url }}">{{ $title }}</a></span>
+        {{ end }}
     </p>
     {{ end }}
     {{ .Content }}

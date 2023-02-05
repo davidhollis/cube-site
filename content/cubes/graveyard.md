@@ -2,7 +2,8 @@
 title: "Graveyard Slice"
 status: done
 sort_index: 2
-cubecobra_link: "https://cubecobra.com/cube/list/1771"
+links:
+    CubeCobra: "https://cubecobra.com/cube/list/1771"
 description: "A cube all about making the best use of your graveyard"
 draft: false
 ---
