@@ -2,7 +2,8 @@
 title: "{{ replace (replaceRE "^[0-9]+-" "" .Name) "-" " " | title }}"
 status: idea
 sort_index: 1000
-cubecobra_link: ""
+links:
+  CubeCobra: ""
 description: "A cube with some theme, probably"
 draft: true
 ---
