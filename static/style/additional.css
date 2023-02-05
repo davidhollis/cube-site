@@ -111,6 +111,6 @@
     font-size: 0.6em;
 }
 
-.cube-links .cube-link:nth-child(n+2)::before {
+.cube-links .cube-link:nth-of-type(n+2)::before {
     content: ' | ';
 }
