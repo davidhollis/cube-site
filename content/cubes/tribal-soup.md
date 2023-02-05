@@ -7,7 +7,7 @@ description: "A cube where creature types matter, a lot. There are 22 supported 
 draft: false
 ---
 
-A kind of puzzle-y cube. There are **22** supported creature types, but none of them have enough support that you can build a dekc just around that type. Each deck will be a mixture of several types. For example, you won't be able to build a Shaman deck, but you _can_ build a Minotair-Shaman-Rogue-Giant deck.
+A kind of puzzle-y cube. There are **22** supported creature types, but none of them have enough support that you can build a deck just around that type. Each deck will be a mixture of several types. For example, you won't be able to build a Shaman deck, but you _can_ build a Minotair-Shaman-Rogue-Giant deck.
 
 
 ## The Draft
