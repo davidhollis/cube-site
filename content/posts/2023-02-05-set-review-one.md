@@ -1,8 +1,8 @@
 ---
 title: "Set Review: Phyrexia: All Will Be One"
-date: 2023-02-06T03:15:24Z
+date: 2023-02-05
 toc: true
-draft: true
+draft: false
 tags:
     - set review
 ---
@@ -10,6 +10,10 @@ tags:
 Hello, folks! This is my first set review of any kind in any medium, and let me just say that I have a newfound respect for all the people out there who manage to write something about every single card in a set! This is a lot more informal than most of those reviews—it's just my rough thoughts about the cards in the set that I feel like I have anything to say about, mostly in the context of my cubes/future cube ideas. I skip or gloss over some very good cards, and I spend a bit of time musing about cards that may not end up doing much.
 
 <!--more-->
+
+Enough with the intro material, though—let's get to the cards!
+
+{{< toc >}}
 
 ## White
 
@@ -207,7 +211,7 @@ Love me some eggs. I don't think I'm really in for any of these outside the blue
 
 {{< card-listing "Sword of Forge and Frontier" >}}
 
-Look, it's a sword. There's a pretty high floor on just being a {{< mana 3 >}} / Equip {{< mana 2 }} that gives +2/+2 and protection from two colors. I'm currently including {{< xcard name="Sword of Sinew and Steel" label="Sinew and Steel" />}} in the [red cube][red], but if the repeated artifact removal of that one end s up being too oppressive, I think Forge and Frontier is the next sword I'd try in that place.
+Look, it's a sword. There's a pretty high floor on just being a {{< mana 3 >}} / Equip {{< mana 2 >}} that gives +2/+2 and protection from two colors. I'm currently including {{< xcard name="Sword of Sinew and Steel" label="Sinew and Steel" />}} in the [red cube][red], but if the repeated artifact removal of that one end s up being too oppressive, I think Forge and Frontier is the next sword I'd try in that place.
 
 ### Otharri, Suns' Glory
 
