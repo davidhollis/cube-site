@@ -4,6 +4,12 @@ title = "SconeforgeMystic's Cube Collection"
 theme = "contrast-hugo"
 enableEmoji = true
 
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 2
+
 [params]
 minimal = false
 description = "A collection of Magic: The Gathering cubes"
@@ -20,3 +26,9 @@ identifier = "cubes"
 name = "Cubes"
 url = "/cubes"
 weight = 20
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/posts"
+weight = 30

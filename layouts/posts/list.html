@@ -1,0 +1,25 @@
+{{ define "main" }}
+
+{{ $Pages := .Pages }}
+
+<article>
+    <header>
+        <h1>{{ .Title | default "Posts" | humanize }}</h1>
+    </header>
+    <div class="cube-listing">
+        {{- range .Paginator.Pages }}
+        <section>
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            {{ if .Date }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" style="display: inline-block; min-width: 10ch; margin: 0 .2em;">{{ .Date.Format "2006-01-02" }}</time>{{ end }}
+            <p>{{ .Summary }}</p>
+            <p class="cube-links">
+                <span class="cube-link"><a href="{{ .Permalink }}">Read more...</a></span>
+            </p>
+        </section>
+        {{- end }}
+        {{ template "_internal/pagination.html" . }}
+    </div>
+    {{ .Content }}
+</article>
+
+{{ end }}

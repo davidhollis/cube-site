@@ -114,3 +114,18 @@
 .cube-links .cube-link:nth-of-type(n+2)::before {
     content: ' | ';
 }
+
+.mtg-card-gallery {
+    text-align: center;
+}
+
+ul.pagination {
+    list-style: none;
+    text-align: center;
+}
+
+ul.pagination li {
+    display: inline;
+    margin-left: 1em;
+    margin-right: 1em;
+}

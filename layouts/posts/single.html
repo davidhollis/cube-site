@@ -1,0 +1,14 @@
+{{ define "main" }}
+
+<article>
+    <header>
+        <h1>{{ .Title }}</h1>
+    </header>
+    {{ if .Date }}<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" style="display: inline-block; min-width: 10ch; margin: 0 .2em;">{{ .Date.Format "2006-01-02" }}</time>{{ end }}
+    {{ if .Params.toc }}
+        {{ .TableOfContents }}
+    {{ end }}
+    {{ .Content }}
+</article>
+
+{{ end }}
