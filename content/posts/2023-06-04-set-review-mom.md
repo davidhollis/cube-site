@@ -9,6 +9,8 @@ tags:
 
 And we're back! Better late than never, I suppose. This review covers cards from _March of the Machine_, _March of the Machine Commander_, and _March of the Machine: The Aftermath_ where I felt like I had something to say in the context of my cubes (or occasioanlly cubes in general). Sometimes that's talking a bit about which cubes they'll go in, sometimes it's about why they're not going in any cubes, and sometimes it's about how I think the card is cool and want to find a place for it.
 
+<!--more-->
+
 Y'all, there are so many cards in these sets. By the time you get through the main set, the commander supplement, the extra commander cards, and the JumpStart exclusive cards, it feels like it's been two older sets. And this time there was an additional 50-card mini-set on top of all that! But here it all is. It feels good to have finally committed all of this to bits and placed some orders for cards to update the cubes.
 
 {{< toc >}}
@@ -331,7 +333,7 @@ Which is all a lot of words to say: I think this is cube-able, but you have to b
 
 {{< card-listing "@Invasion of Mercadia" "Kyren Flamewright" >}}
 
-This is my new favorite {{< card Tormenting Voice >}} effect! I didn't have one yet in the [graveyard slice][graveyard], so it's going in over {{< card Crashing Footfalls >}} (which has actually never been cast—I checked!). I love the idea of a marginally playable card selection spell early in the game that can turn into a win condition _that's also a discard outlet!_
+This is my new favorite {{< card Tormenting Voice >}} effect! I didn't have one yet in the [graveyard slice][graveyard], so it's going in over {{< card Footfall Crater >}} (which has actually never been cast—I checked!). I love the idea of a marginally playable card selection spell early in the game that can turn into a win condition _that's also a discard outlet!_
 
 
 ### Invasion of Regatha
@@ -407,9 +409,9 @@ I still don't have space in any of my cubes for this type of card when it doesn'
 So one of the consequences of building small, heavily-themed cubes is that they often can't supoort just a regular old {{< card Naturalize >}}. Why run that when I can run Naturalize-with-set's-mechanic, which might see marginal maindeck play? Well, this one does enough things that it's starting to look more attractive. Maybe I'll find a good place for a {{< card Naturalize >}}//{{< card Plummet >}} split card?
 
 
-### Deeproot Wanderer
+### Deeproot Wayfinder
 
-{{< card-listing "Deeproot Wanderer" >}}
+{{< card-listing "Deeproot Wayfinder" >}}
 
 I'm a little dubious about whether this will perform well, but I'm going to give it a try in the [graveyard slice][graveyard] because the upside is clearly there. I'm just nervous about the need for it to connect. But hey, it's well-statted for its cost, and if it gets in even once that's real value.
 
@@ -455,7 +457,7 @@ I'm going to give this a try in the [graveyard slice][graveyard]. It's enough va
 
 {{< card-listing "@Invasion of Zendikar" "Awakened Skyclave" >}}
 
-{{< xcard name="Explosive Vegetation" label="Veggies" />}} with set's mechanic! Going to give it a try in the [graveyard slice][graveyard] over {{< card "Migration's Path" >}}, the previous veggies with set's mechanic.
+{{< xcard name="Explosive Vegetation" label="Veggies" />}} with set's mechanic! Going to give it a try in the [graveyard slice][graveyard] over {{< card "Migration Path" >}}, the previous veggies with set's mechanic.
 
 
 ### Kami of Whispered Hopes, Ozolith

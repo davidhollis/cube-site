@@ -55,6 +55,7 @@ While this cube is pretty open-ended (you can draft a good deck that doesn't fit
       * **Storm** (rituals on sticks like {{< card "Birgi, God of Storytelling" >}}, cost reducers, {{< card Chatterstorm >}})
       * **{{< card Wildfire >}} Ramp**
       * **Tokens** (grind them into the {{< card Chitterspitter >}}, double up your spells with {{< card "Wort, the Raidmother" >}}, or just overrun with {{< card Garruk Wildspeaker >}})
+          * Also consider {{< card "Zada, Hedron Grinder" >}} with cheap targeted cantrips and something like {{< card Temur Battle Rage >}} to win
   * {{< mana g u >}} green/blue {{< mana u g >}}
       * **Kicker** (exactly what it sounds like! Get extra effects out of your spells, or even copy them with {{< card "Verazol, the Split Current" >}})
       * **Flicker** (re-use ETB abilities, or go infinite with {{< card Peregrine Drake >}})
