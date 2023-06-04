@@ -7,6 +7,10 @@ tags:
     - cube update
 ---
 
+Time for a Big Quarterly Update™!
+
+<!--more-->
+
 For most of the cubes, I don't have a ton to say that isn't addressed in either the CubeCobra updates or [my MOM+ Set Review](/posts/2023-06-04-set-review-mom). In fact, I drew the updates up with my set review open in another window as the source.
 
   * [Spellslinger updates](https://cubecobra.com/cube/blog/blogpost/e9d11609-a7fc-480f-b4b1-9cc69d8a639a)
