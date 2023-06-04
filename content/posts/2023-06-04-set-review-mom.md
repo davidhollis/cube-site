@@ -7,6 +7,10 @@ tags:
     - set review
 ---
 
+And we're back! Better late than never, I suppose. This review covers cards from _March of the Machine_, _March of the Machine Commander_, and _March of the Machine: The Aftermath_ where I felt like I had something to say in the context of my cubes (or occasioanlly cubes in general). Sometimes that's talking a bit about which cubes they'll go in, sometimes it's about why they're not going in any cubes, and sometimes it's about how I think the card is cool and want to find a place for it.
+
+Y'all, there are so many cards in these sets. By the time you get through the main set, the commander supplement, the extra commander cards, and the JumpStart exclusive cards, it feels like it's been two older sets. And this time there was an additional 50-card mini-set on top of all that! But here it all is. It feels good to have finally committed all of this to bits and placed some orders for cards to update the cubes.
+
 {{< toc >}}
 
 ## White
