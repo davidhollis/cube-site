@@ -10,7 +10,8 @@
   $.fn.mtgCardLink = function () {
     this.each(function () {
       var self = $(this),
-        request = elementToScryfallRequest(self);
+        request = elementToScryfallRequest(self),
+        rotated = self.data('rotated');
 
       request.callback = function (card) {
         var newLink = $('<a>');
@@ -20,6 +21,7 @@
             .attr('target', '_blank')
             .addClass('mtg-card-link')
             .data('tooltip-url', card.imageUrl)
+            .data('rotated', !!rotated)
             .html(self.html())
           return newLink;
         });
@@ -36,7 +38,14 @@
 
         tooltipContents.addClass('mtg-card-tooltip');
         if (imageUrl) {
-          tooltipContents.append('<img src="' + imageUrl + '">');
+          var image = $('<img>');
+          image.attr('src', imageUrl);
+
+          if (self.data('rotated')) {
+            image.addClass('rotated');
+          }
+
+          tooltipContents.append(image);
         }
 
         return tooltipContents;
@@ -47,7 +56,8 @@
   $.fn.mtgCardDisplay = function () {
     this.each(function () {
       var self = $(this),
-        request = elementToScryfallRequest(self);
+        request = elementToScryfallRequest(self),
+        rotated = self.data('rotated');
 
       request.callback = function (card) {
         self.replaceWith(function () {
@@ -60,6 +70,11 @@
             .attr('target', '_blank')
             .addClass('mtg-card-display')
             .append(newImage);
+          
+          if (rotated) {
+            newImage.addClass('rotated');
+          }
+
           return imageLink;
         });
       };

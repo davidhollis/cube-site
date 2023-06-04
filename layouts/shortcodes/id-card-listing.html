@@ -1,0 +1,9 @@
+<p class="mtg-card-gallery">
+    {{ range .Params }}
+        {{ if (hasPrefix . "@") }}
+            <span class="card-display" data-rotated="true" data-scryfall-id="{{ replace . "@" "" }}"></span>
+        {{ else }}
+            <span class="card-display" data-scryfall-id="{{.}}"></span>
+        {{ end }}
+    {{ end }}
+</p>

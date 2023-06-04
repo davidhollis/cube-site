@@ -2,6 +2,11 @@
     max-height: 20em;
 }
 
+.mtg-card-tooltip img.rotated {
+    transform: rotate(90deg);
+    margin: -3em 3em;
+}
+
 .mana-cost {
     white-space: nowrap;
     padding-left: 0.2em;
@@ -30,6 +35,12 @@
 
 .mtg-card-display img {
     max-width: 30%;
+}
+
+.mtg-card-display img.rotated {
+    transform: rotate(90deg);
+    margin-left: 6%;
+    margin-right: 6%;
 }
 
 .mtg-decklist {

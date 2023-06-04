@@ -1,5 +1,9 @@
 <p class="mtg-card-gallery">
     {{ range .Params }}
-    <span class="card-display">{{ . }}</span>
+        {{ if (hasPrefix . "@") }}
+            <span class="card-display" data-rotated="true">{{ replace . "@" "" }}</span>
+        {{ else }}
+            <span class="card-display">{{ . }}</span>
+        {{ end }}
     {{ end }}
 </p>

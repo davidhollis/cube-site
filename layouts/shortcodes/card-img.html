@@ -1,1 +1,7 @@
-<span class="card-display">{{ delimit .Params " " }}</span>
+{{ with (delimit .Params " ") }}
+    {{ if (hasPrefix . "@") }}
+        <span class="card-display" data-rotated="true">{{ replace . "@" "" }}</span>
+    {{ else }}
+        <span class="card-display">{{ . }}</span>
+    {{ end }}
+{{ end }}

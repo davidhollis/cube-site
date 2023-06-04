@@ -50,14 +50,14 @@ Man, the _rate_ on this compared to good ol' {{< card Flickerwisp >}}. Those two
 
 ### Invasion of Gobakhan
 
-{{< card-listing "Invasion of Gobakhan" "Lightshield Array" >}}
+{{< card-listing "@Invasion of Gobakhan" "Lightshield Array" >}}
 
 A very nice, cheap, disruptive white spell. I'm going to grab a few copies because I'm confident they'll make their way into a cube someday. There just often isn't room for cards like this in heavily themed cubes when they don't directly support the theme. If only this were an enchantment instead of a battle!
 
 
 ### Invasion of Theros
 
-{{< card-listing "Invasion of Theros" "Ephara, Ever-Sheltering" >}}
+{{< card-listing "@Invasion of Theros" "Ephara, Ever-Sheltering" >}}
 
 Now _this_ is an enchantment battle! I'm certain I'll find room for this in the [enchantment slice][enchantment]. It's mostly an aura tutor, but there are a couple God and Demigod hits. Obviously if you can flip it that's huge, but I think it'll still be playable if not, especially in a slower prison deck.
 
@@ -139,7 +139,7 @@ This doesn't align directly with any of the themes of my cubes; I've got a littl
 
 ### Invasion of Segovia
 
-{{< card-listing "Invasion of Segovia" "Caetus, Sea Tyrant of Segovia" >}}
+{{< card-listing "@Invasion of Segovia" "Caetus, Sea Tyrant of Segovia" >}}
 
 Sweet card! It does a lot of things, but you really need to be able to flip it for it to be playable. That makes me hesitant to call it strong, because I think to really shine it needs an environment:
 
@@ -246,7 +246,7 @@ Definitely trying this out in the multiplayer cube to add another payoff for the
 
 ### Invasion of Fiora
 
-{{< card-listing "Invasion of Fiora" "Marchesa, Resolute Monarch" >}}
+{{< card-listing "@Invasion of Fiora" "Marchesa, Resolute Monarch" >}}
 
 I think this finds its way into the [multiplayer slice][multiplayer], since it doesn't really have any black sweepers. It'll be rare for it to be a {{< card Plague Wind >}}, but I don't think that's a bug. The only thing that makes me unsure is this is the third expensive black card I said I wanted to try in that cube, and that list is pretty tight because it's a small cube that breaks singleton.
 
@@ -255,7 +255,7 @@ I also think this is a strong choice for the [Timmy slice][timmy] when that come
 
 ### Invasion of Innistrad
 
-{{< card-listing "Invasion of Innistrad" "Deluge of the Dead" >}}
+{{< card-listing "@Invasion of Innistrad" "Deluge of the Dead" >}}
 
 Midrange all-star. I'm not seeing a place where this goes in any of my cubes (yes, I _know_ I have one with a graveyard theme) at the moment, but it's simply powerful enough that I think it deserves a note. It's below the curve but still technically playable on the front side (being effectively unconditional helps) and hard to flip, but if you do flip it you get a huge amount of inevitability. Notably, a lot of its power comes from the fact where there's some games where you can use the removal ability to arrange to flip it before your opponent has a chance to plan around it.
 
@@ -307,7 +307,7 @@ I don't think this card needs me to waste any more words on how good it is. It's
 
 ### Invasion of Kaldheim
 
-{{< card-listing "Invasion of Kaldheim" "Pyre of the World Tree" >}}
+{{< card-listing "@Invasion of Kaldheim" "Pyre of the World Tree" >}}
 
 Red got some sweet battle designs! I don't think this one is worth it—I wish I could just cast the back side drectly in the [graveyard slice][graveyard], but I don't think it's worth the effort of going through the front side _and_ attacking down a battle. But! I actually love the front side's effect from a mechanical perspective (a "rummage your whole hand away" effect where you don't lose access to the original hand at first), and I hope to see more of it in the future. In particular, I'd like to see something like
 
@@ -316,7 +316,7 @@ Red got some sweet battle designs! I don't think this one is worth it—I wish I
 
 ### Invasion of Karsus
 
-{{< card-listing "Invasion of Karsus" "Refraction Elemental" >}}
+{{< card-listing "@Invasion of Karsus" "Refraction Elemental" >}}
 
 Hmm, the back side of this is obviously a game-winning bomb, but at 4 defense I kinda want the front side of a battle to be good on its own (or to help you flip it somehow). I prefer my 3-damage sweepers to cost 3 ({{< card Anger of the Gods >}} // {{< card Sweltering Suns >}} // {{< card "Brotherhood's End" >}}), and at 4 mana we also have {{< card "Storm's Wrath" >}}.
 
@@ -325,21 +325,21 @@ Which is all a lot of words to say: I think this is cube-able, but you have to b
 
 ### Invasion of Mercadia
 
-{{< card-listing "Invasion of Mercadia" "Kyren Flamewright" >}}
+{{< card-listing "@Invasion of Mercadia" "Kyren Flamewright" >}}
 
 This is my new favorite {{< card Tormenting Voice >}} effect! I didn't have one yet in the [graveyard slice][graveyard], so it's going in over {{< card Crashing Footfalls >}} (which has actually never been cast—I checked!). I love the idea of a marginally playable card selection spell early in the game that can turn into a win condition _that's also a discard outlet!_
 
 
 ### Invasion of Regatha
 
-{{< card-listing "Invasion of Regatha" "Disciples of the Inferno" >}}
+{{< card-listing "@Invasion of Regatha" "Disciples of the Inferno" >}}
 
 Okay, this one is probably the worst red battle in a cube setting (or rather, in a _singleton_ setting...). It's 3 mana, not very impactful on average, and hard to flip, though it does pay you off nicely if you can flip it. The most common way I've seen to flip an Invasion of Regatha is with a second copy of Invasion of Regatha, and they kinda snowball from there. So where do i think this is viable? A combat-oriented cube that's willing to break singleton. That's pretty narrow, but I bet there's one out there.
 
 
 ### Invasion of Tarkir
 
-{{< card-listing "Invasion of Tarkir" "Defiant Thundermaw" >}}
+{{< card-listing "@Invasion of Tarkir" "Defiant Thundermaw" >}}
 
 Now _here. we. go._ This is a hell of a card. It's seeing legacy play, and I think it's playable in a wide variety of cubes. The frotn face probably kills something, even if it trades down in terms of mana value (and it doesn't always trade down!). It's hard to flip, but the back face kills people very quickly, and it doesn't ask very much of you.
 
@@ -426,14 +426,14 @@ Not much to say here. This is a very commander-y card and may fit well in comman
 
 ### Invasion of Ikoria
 
-{{< card-listing "Invasion of Ikoria" "Zilortha, Apex of Ikoria" >}}
+{{< card-listing "@Invasion of Ikoria" "Zilortha, Apex of Ikoria" >}}
 
 This is a {{< card "Green Sun's Zenith" >}}-alike and goes in cubes that want that kind of thing, which is not (at present) any of mine. It has some significant upside over classic GSZ that I think justifies the mana, but I do think {{< card Finale of Devastation >}} is better due to occasionally being a {{< xcard name="Createrhoof Behemoth" label="Craterhoof" />}}.
 
 
 ### Invasion of Ixalan
 
-{{< card-listing "Invasion of Ixalan" "Belligerent Regisaur" >}}
+{{< card-listing "@Invasion of Ixalan" "Belligerent Regisaur" >}}
 
 I'm willing to be wrong here, but I'm not super impressed. Green has good 0- and 1-mana cantrips, so I don't think it needs a 2-mana cantrip, even if it comes with a beefy creature later. Green doesn't have a hard time finding beefy creatures.
 
@@ -442,14 +442,14 @@ Would I play a {{< mana 1 g >}} sorcery that drew me a permanent card and a 4/3 
 
 ### Invasion of Shandalar
 
-{{< card-listing "Invasion of Shandalar" "Leyline Surge" >}}
+{{< card-listing "@Invasion of Shandalar" "Leyline Surge" >}}
 
 I'm going to give this a try in the [graveyard slice][graveyard]. It's enough value on the front side that I don't know if you have to be able to flip it to be worth playing. It's nontrivial but also far from impossible to flip if you can see a path to getting some advantage from that. In the graveyard slice in particular, I'm imagining this in the {{< mana gu >}} deck, cycling a {{< card Titanoth Rex >}} or channeling a {{< card Colossal Skyturtle >}}, returning it with the front face of this, then cheating them in with the back face.
 
 
 ### Invasion of Zendikar
 
-{{< card-listing "Invasion of Zendikar" "Awakened Skyclave" >}}
+{{< card-listing "@Invasion of Zendikar" "Awakened Skyclave" >}}
 
 {{< xcard name="Explosive Vegetation" label="Veggies" />}} with set's mechanic! Going to give it a try in the [graveyard slice][graveyard] over {{< card "Migration's Path" >}}, the previous veggies with set's mechanic.
 
@@ -489,14 +489,14 @@ I'm going to skip over almost all of these, in part because I've already written
 
 ### Invasion of Alara
 
-{{< card-listing "Invasion of Alara" "Awaken the Maelstrom" >}}
+{{< card-listing "@Invasion of Alara" "Awaken the Maelstrom" >}}
 
 Auto-include in the [Timmy slice][timmy] because it just does so many things. Look at all the things it does! The back does five!
 
 
 ### Invasion of Tolvada
 
-{{< card-listing "Invasion of Tolvada" "The Broken Sky" >}}
+{{< card-listing "@Invasion of Tolvada" "The Broken Sky" >}}
 
 This card is awesome. Type-agnostic reanimation at 5, and if you flip it you get a piece of inevitability that self-enables. This is going in the [token slice][tokens], and I personally want to see if I can return a {{< card Marionette Master >}} with the front face.
 
@@ -580,7 +580,7 @@ I kinda want to try this out in the [echantment slice][enchantment]. I'm not 100
 
 {{< card-listing "Tolarian Contempt" >}}
 
-Going to try this out in the [multiplayer slice][multiplayer], for similar reasons to {{< card Invasion of Fiora >}}: the cube also has no blue sweepers, and this is one that feels fundamentally blue and doesn't violate the "let the players do the thing" principle.
+Going to try this out in the [multiplayer slice][multiplayer], for similar reasons to {{< card "@Invasion of Fiora" >}}: the cube also has no blue sweepers, and this is one that feels fundamentally blue and doesn't violate the "let the players do the thing" principle.
 
 
 ### Narset, Enlightened Exile
@@ -594,7 +594,7 @@ The single most exciting Aftermath card for me, and I don't even think it's that
 
 ### Every Ravnica Showcase Frame Card
 
-{{< xcard-listing "1e7c2afb-e04e-4012-b8a2-7a7273b52136" "df48f1c0-b336-4c68-8d11-41bceb36c83c" "0a1b14a8-c194-49d3-ab6c-1db377b69495" "c94cd726-8d67-4510-ad56-3ead1931214b" "cf0d7769-d98e-4cf2-900e-11dc74142c0d" "f21d999f-ea24-40d8-86ef-180627196749" "3c48a7da-0d01-439f-8cfb-22af30cffbba" "577522b4-b3f6-43b6-92a4-4e8420ff3b12" "61243a31-6608-451f-9ba1-4f8ecc5aaad1" >}}
+{{< id-card-listing "1e7c2afb-e04e-4012-b8a2-7a7273b52136" "df48f1c0-b336-4c68-8d11-41bceb36c83c" "0a1b14a8-c194-49d3-ab6c-1db377b69495" "c94cd726-8d67-4510-ad56-3ead1931214b" "cf0d7769-d98e-4cf2-900e-11dc74142c0d" "f21d999f-ea24-40d8-86ef-180627196749" "3c48a7da-0d01-439f-8cfb-22af30cffbba" "577522b4-b3f6-43b6-92a4-4e8420ff3b12" "61243a31-6608-451f-9ba1-4f8ecc5aaad1" >}}
 
 Absolutely gorgeous. If anyone from WotC is reading this: please tell whoever made the Ravnica showcase frames that they did an excellent job. They're my absolute favorites, and I hope to see more in the future.
 

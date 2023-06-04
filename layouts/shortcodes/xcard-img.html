@@ -1,2 +1,1 @@
-<span class="card-display" {{ with .Get "scryfall_id" }} data-scryfall-id="{{.}}" {{ end }}{{ with .Get "name" }}
-    data-card-name="{{.}}" {{ end }}></span>
+<span class="card-display" {{ with .Get "scryfall_id" }} data-scryfall-id="{{.}}" {{ end }}{{ with .Get "name" }} data-card-name="{{.}}" {{ end }}{{ with .Get "rotated" }} data-rotated="true" {{ end }}></span>
