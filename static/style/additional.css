@@ -1,3 +1,11 @@
+h2, h3, h4, h5 {
+    margin-top: 1.5em;
+}
+
+h3 {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
 .mtg-card-tooltip img {
     max-height: 20em;
 }
