@@ -2,7 +2,7 @@
 title: "Set Review: Phyrexia: All Will Be One"
 date: 2023-02-05
 toc: true
-draft: false
+draft: true
 tags:
     - set review
 ---

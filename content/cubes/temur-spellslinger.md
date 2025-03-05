@@ -5,7 +5,7 @@ sort_index: 1
 links:
   CubeCobra: "https://cubecobra.com/cube/list/1gwk"
 description: "A color-restricted cube built around casting instant and sorcery spells"
-draft: false
+draft: true
 ---
 
 This is a cube built around casting instants and sorcery spells: casting a lot of them, or from particular zones, or to do particular things. The cube is color-restricted: there are only blue, red, and green cards.

@@ -2,7 +2,7 @@
 title: "Set Review: March of the Machine (and Aftermath!)"
 date: 2023-06-04
 toc: true
-draft: false
+draft: true
 tags:
     - set review
 ---

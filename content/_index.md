@@ -4,7 +4,7 @@ draft: false
 
 :wave:
 
-This is the landing page for my cube project. I have a list of all of my paper cubes (and some ideas for future cubes!), along with some notes that'll be helpful for anyone who wants to draft them.
+This is the landing page for my cube project. It used to have a list of my cubes here, but it was hard to keep things in sync between here and CubeCobra, so [that's just the source of truth now](https://cubecobra.com/user/view/5e25e585a9a76f129adb1511). I still find CubeCobra's organizational features for serial cube designers like me wanting, and I have some thoughts about the future of this site, but for now it's mostly a placeholder while I figure things out.
 
 
 ## General Philosophy

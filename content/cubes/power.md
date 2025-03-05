@@ -3,7 +3,7 @@ title: "Power Slice"
 status: idea
 sort_index: 101
 description: "A translation of the concept of a powered cube to a small form factor"
-draft: false
+draft: true
 ---
 
 ## Thoughts

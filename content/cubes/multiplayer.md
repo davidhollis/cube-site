@@ -5,7 +5,7 @@ sort_index: 5
 links:
     CubeCobra: "https://cubecobra.com/cube/list/3rm6f"
 description: "A 4-player cube that turns into a 4-player free-for-all multiplayer game"
-draft: false
+draft: true
 ---
 
 This one started from a kinda unique place: the initial idea was to have a 4-seat draft where the drafters could just stay in their seats for a free-for-all multiplayer game afterward. The power level would be "classic casual magic with focused decks". After a bit of messing around with some ideas, I decided to incorporate conspiracies and draft-matters cards, and that in turn led me to breaking singleton—the Hidden Agenda conspiracies get a lot better if you can name a card you have more than one of in your deck.

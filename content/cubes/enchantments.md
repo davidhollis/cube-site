@@ -5,7 +5,7 @@ sort_index: 3
 links:
   CubeCobra: "https://cubecobra.com/cube/list/1kp7z"
 description: "A cube with an unusually high density of enchantments and somewhat commander-y gameplay"
-draft: false
+draft: true
 ---
 
 Enchantment has been my favorite card type since about when I started playing Magic, _\[redacted]_ years ago. Support for (and answers to) enchantments aren't evenly distributed through the color pie, so I expanded the set of things to do in this cube beyond "jam a bunch of enchantments and enchantresses in your deck and call it a day." Decks will generally still _contain_ more enchantments than normal, though, even if they aren't built around it.

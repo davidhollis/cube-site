@@ -21,11 +21,11 @@ name = "About"
 url = "/"
 weight = 10
 
-[[menu.main]]
-identifier = "cubes"
-name = "Cubes"
-url = "/cubes"
-weight = 20
+# [[menu.main]]
+# identifier = "cubes"
+# name = "Cubes"
+# url = "/cubes"
+# weight = 20
 
 [[menu.main]]
 identifier = "blog"

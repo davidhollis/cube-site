@@ -5,7 +5,7 @@ sort_index: 2
 links:
     CubeCobra: "https://cubecobra.com/cube/list/1771"
 description: "A cube all about making the best use of your graveyard"
-draft: false
+draft: true
 ---
 
 This is a cube built around multiple expressions of graveyard mechanics. It's one of the oldest ideas for a themed cube I had, germinating from the seed of "how many cards with cycling can I put in a cube?" Everything else evolved from that idea.

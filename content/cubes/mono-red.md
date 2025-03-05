@@ -5,7 +5,7 @@ sort_index: 6
 links:
     CubeCobra: "https://cubecobra.com/cube/list/3ystb"
 description: "A vintage-inspired cube meant to show off the many facets of the color red"
-draft: false
+draft: true
 ---
 
 This cube is my attempt at showcasing many different facets of red as a color. It's relatively high-power, inspired by decks from the MTGO vintage cube, as well as different mono-red Canadian Highlander decks.
