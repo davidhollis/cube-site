@@ -92,6 +92,10 @@ This is one of the decks I was most worried about, power level-wise, when buildi
 
 ### Seat 2: Ambassador Laquatus's Sneaky Delver
 
+{{< figure caption="Sneaky Delver" >}}
+{{< image src="/img/2025-03-05-inaugural-draft-pauper-constructed/seat-2.jpg" alt="The deck for seat 2, spread out to reveal the individual cards" >}}
+{{< /figure >}}
+
 Decklist: [Moxfield][seat2-decklist]
 
 {{< mana u b >}} Delver is alive and well! This particular build struggled against the MBC removal pile, but otherwise mostly did the thing.
@@ -105,7 +109,11 @@ Decklist: [Moxfield][seat2-decklist]
 
 Decklist: [Moxfield][seat3-decklist]
 
-A pretty classic monogreen elves list! The biggest tragedy here is that I stole Pete's {{< card "Birchlore Rangers" >}}—I'd seen the start of a string Elves deck go by me in pack 1, so I grabbed it in case they wheeled. This one also had some trouble with MBC, but did well elsewhere due to being able to play at multiple speeds: it could dump its hand in that famous elves way, but {{< card Sprout Swarm >}} gave it a potent source of inevitability.
+A pretty classic monogreen elves list! The biggest tragedy here is that I stole Pete's {{< card "Birchlore Rangers" >}}—I'd seen the start of a string Elves deck go by me in pack 1, so I grabbed it in case they wheeled. But here's Pete on his deck:
+
+> I saw a few elves payoffs early in pack one, and felt confident going all in when some roleplayers tabled. I did have a fair amount of black removal/grindy cards in the pool, but decided to just maximizing the mono green elves plan for my 60. The tap abilities of {{< xcard label="Timberwatch" name="Timberwatch Elf" />}}, {{< xcard label="Titania" name="Priest of Titania" />}}, and {{< card Wellwisher >}} (with the option to double activate through {{< card Quirion Ranger >}}) generate cray numbers the other decks can't achieve. I played the {{< xcard label="Snakeskin Veils" name="Snakeskin Veil" />}} to protect my lynchpin creatures, but it didn't make a difference against MBC's onslaught of removal. In the other match-ups, victory came from either a higher caliber of early aggression thanks to Timberwatch, or from overwhelming forces in the late game with {{< card Sprout Swarm >}}, {{< xcard label="Stampede" name="Lead the Stampede" />}}, and {{< xcard label="Huntmaster" name="Lys Alana Huntmaster" />}}.
+> 
+> My sideboard was kind of a miss against what I expected the other decks to be (ie: {{< card Thermokarst >}} for Tron), and if I were to reimagine it, I would try to find more tools for the MBC matchup (ie: removal for {{< xcard label="Witches" name="Cuombajj Witches" />}}, more {{< xcard label="Spidersilk Armors" name="Spidersilk Armor" />}}).
 
 
 ### Seat 4: Andrew R's Mono Black Control
