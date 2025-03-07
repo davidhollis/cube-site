@@ -1,6 +1,6 @@
 ---
 title: "Inaugural Draft: The Pauper Constructed Cube"
-date: 2025-03-05T14:49:36-08:00
+date: 2025-03-07T09:49:36-08:00
 toc: false
 draft: false
 ---
@@ -126,7 +126,7 @@ Decklist: [Moxfield][seat4-decklist]
 
 I'll hand this one over to Andrew:
 
-> This was very similar to MBC lists back in the day, minus {{< xcard label="Gary" name="Gray Merchant of Asphodel" />}} and with some removal switched out. Gary is a big loss, but a removal pile full of 2-for-1s and removal and {{< xcard label="a Monarch card" name="Thorn of the Black Rose" />}} is very good. It’s also easy to draft with lots of replaceable stuff. It was also nostalgic — I used to play MBC in Pauper Leagues on MTGO a lot, so I had a blast. My pool was a bit of a mess overall besides this, because I was trying to have outs to be {{< mana ub >}} Ratlock or {{< mana wb >}} {{< card Ephemerate >}} if I missed out on getting enough black cards to be MBC, and I had some of those pieces but not enough fixing or power to justify those decks. Overall, seems like a menace in the cube, no notes.
+> This was very similar to MBC lists back in the day, minus {{< xcard label="Gary" name="Gray Merchant of Asphodel" />}} and with some removal switched out. Gary is a big loss, but a removal pile full of 2-for-1s and {{< xcard label="a Monarch card" name="Thorn of the Black Rose" />}} is very good. It’s also easy to draft with lots of replaceable stuff. It was also nostalgic — I used to play MBC in Pauper Leagues on MTGO a lot, so I had a blast. My pool was a bit of a mess overall besides this, because I was trying to have outs to be {{< mana ub >}} Ratlock or {{< mana wb >}} {{< card Ephemerate >}} if I missed out on getting enough black cards to be MBC, and I had some of those pieces but not enough fixing or power to justify those decks. Overall, seems like a menace in the cube, no notes.
 
 
 ### Seat 5: SconeforgeMystic's Caw-Gates on Acid
